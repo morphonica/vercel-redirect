@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://xxxx-xx.ngrok-free.app/ifs25055-pbo2026-springboot-cashflow/$1",
+      "permanent": false
+    }
+  ]
+}
